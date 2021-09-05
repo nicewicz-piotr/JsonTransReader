@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "62uwIb2ixFUXGhF1zhGe1EkEMM11qCl/s9TrEGPfxJeB43GKhjhhqlWMePjBmneSulVGtYdZA0Cm5zRTfcgZyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Piotr\\Documents\\CSharp_projects\\JsonTransReader\\JsonTransReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
