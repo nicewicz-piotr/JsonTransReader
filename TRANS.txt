@@ -1,0 +1,76 @@
+JsonTransReader.script_workshop_premium_pl, stepHeader, Krok 1
+JsonTransReader.script_workshop_premium_pl, stepBody, W przypadku dostępności Sieci TOP8, zaproponuj warsztat z tej sieci. Poniżej znajdziesz atrybuty warsztatów z tej sieci
+JsonTransReader.script_workshop_premium_pl, workshopNetwork, TOP8
+JsonTransReader.script_workshop_premium_pl, workshopNetworkShown, TOP8
+JsonTransReader.script, scriptName, Czas i formalności
+JsonTransReader.nestedscript, scriptOrder, 2
+JsonTransReader.nestedscript, scriptHeader, Szybka likwidacja szkody
+JsonTransReader.nestedscript, scriptBody, Razem z naszymi serwisami opracowaliśmy rozwiązania, które zapewnią szybką i bezproblemową naprawę pojazdu i likwidację szkody
+JsonTransReader.nestedscript, scriptOrder, 4
+JsonTransReader.nestedscript, scriptHeader, Minimum formalności
+JsonTransReader.nestedscript, scriptBody, Serwis dokona za Pana/Panią większość formalności, jedyne co powinien Pan/Pani zrobić to spotkać się z przedstawicielem warsztatu i przekazać wymagane dokumenty.
+JsonTransReader.script, scriptName, Warsztat ASO 
+JsonTransReader.nestedscript, scriptOrder, 1
+JsonTransReader.nestedscript, scriptHeader, Oryginalne części
+JsonTransReader.nestedscript, scriptBody, W naprawie zostaną użyte tylko oryginalne części, co jest gwarancją jakości naprawy.
+JsonTransReader.nestedscript, scriptOrder, 2
+JsonTransReader.nestedscript, scriptHeader, Naprawa pojazdu zgodnie z najwyższymi standardami
+JsonTransReader.nestedscript, scriptBody, Wykorzystanie w naprawie technologii spełniającej / zgodnej z wymogami producenta samochodu.
+JsonTransReader.script_workshop_premium_pl, stepHeader, Krok 1
+JsonTransReader.script_workshop_premium_pl, stepBody, W przypadku dostępności Sieci Premium Plus, zaproponuj naprawę w autoryzowanym serwisie z najlepszą oceną. - Jeżeli Klient odmówi zaproponuj kolejny serwis z tej sieci
+JsonTransReader.script_workshop_premium_pl, workshopNetwork, TOP8
+JsonTransReader.script_workshop_premium_pl, workshopNetworkShown, Premium+
+JsonTransReader.script, scriptName, Usługi premium
+JsonTransReader.nestedscript, scriptOrder, 1
+JsonTransReader.nestedscript, scriptHeader, Samochód zastępczy
+JsonTransReader.nestedscript, scriptBody, Zorganizujemy bezpłatny samochód zastępczy, który odbierze Pan/Pani w serwisie.
+JsonTransReader.nestedscript, scriptOrder, 2
+JsonTransReader.nestedscript, scriptHeader, Door-to-door
+JsonTransReader.nestedscript, scriptBody, Wybierając Serwis z naszej sieci będzie to o tyle proste, że pracownik odbierze niejezdny pojazd z miejsca i w terminie ustalonym z Panem/Panią, więc nie będzie Pan/Pani musiał/a poświęcać czasu na dostarczenie czy też na odbiór pojazdu z Serwisu.
+JsonTransReader.nestedscript, scriptOrder, 3
+JsonTransReader.nestedscript, scriptHeader, Holowanie samochodu
+JsonTransReader.nestedscript, scriptBody, Zajmiemy się transportem nie jezdnego samochodu do wybranego przez Pana/Panią serwisu.
+JsonTransReader.nestedscript, scriptOrder, 4
+JsonTransReader.nestedscript, scriptHeader, Gwarancja na naprawę
+JsonTransReader.nestedscript, scriptBody, Serwisy gwarantują dwuletnią gwarancję na wykonaną usługę.
+JsonTransReader.nestedscript, scriptOrder, 5
+JsonTransReader.nestedscript, scriptHeader, Mycie samochodu
+JsonTransReader.nestedscript, scriptBody, W ramach sieci gwarantujemy również mycie pojazdu.
+JsonTransReader.script, scriptName, Finanse
+JsonTransReader.nestedscript, scriptOrder, 1
+JsonTransReader.nestedscript, scriptHeader, Koszt dodatkowych usług
+JsonTransReader.nestedscript, scriptBody, Korzystając z dodatkowych usług oferowanych przez nasze serwisy, jak holowanie i samochód zastępczy ma Pan/Pani pewność, że nie będzie musiał/a Pan/Pani angażować własnych środków pieniężnych.
+JsonTransReader.script, scriptName, Jakość usługi
+JsonTransReader.nestedscript, scriptOrder, 1
+JsonTransReader.nestedscript, scriptHeader, Potwierdzona
+JsonTransReader.nestedscript, scriptBody, Certyfikujemy wszystkie proponowane serwisy, dlatego też może być Pan/Pani pewien/pewna jakości świadczonych przez nich usług.
+JsonTransReader.nestedscript, scriptOrder, 2
+JsonTransReader.nestedscript, scriptHeader, Zagwarantowana
+JsonTransReader.nestedscript, scriptBody, Serwisy gwarantują dwuletnią gwarancję na wykonaną usługę.
+JsonTransReader.nestedscript, scriptOrder, 3
+JsonTransReader.nestedscript, scriptHeader, Rekomendowana
+JsonTransReader.nestedscript, scriptBody, * Ten serwis jest najczęściej wybierany przez naszych klientów tym regionie.
+JsonTransReader.nestedscript, scriptOrder, 4
+JsonTransReader.nestedscript, scriptHeader, Rekomendowana
+JsonTransReader.nestedscript, scriptBody, * Ten serwis jest rekomendowany przez ponad 90% klientów, których pytaliśmy o opinię na temat jakości obsługi.
+JsonTransReader.script, scriptName, Czas i formalności
+JsonTransReader.nestedscript, scriptOrder, 1
+JsonTransReader.nestedscript, scriptHeader, Wybierz odpowiedni warsztat
+JsonTransReader.nestedscript, scriptBody, Proszę o chwilę poszukam dla Pana/Pani odpowiedniego warsztatu (zlokalizowanego niedaleko Pana/Pani miejsca zamieszkania; najlepiej dopasowanego do naprawy Pana/Pani samochodu)
+JsonTransReader.nestedscript, scriptOrder, 2
+JsonTransReader.nestedscript, scriptHeader, Szybka likwidacja szkody
+JsonTransReader.nestedscript, scriptBody, Razem z naszymi serwisami opracowaliśmy rozwiązania, które zapewnią szybką i bezproblemową naprawę pojazdu i likwidację szkody
+JsonTransReader.nestedscript, scriptOrder, 3
+JsonTransReader.nestedscript, scriptHeader, Minimum formalności
+JsonTransReader.nestedscript, scriptBody, Nie musi się Pan/Pani martwić o kwestie takie, jak samochód zastępczy, holowanie czy oględziny ponieważ, pracownicy zajmą się ich organizacją w Pana/Pani imieniu. Serwis dokona za Pana/Panią większość formalności, jedyne co powinien Pan/Pani zrobić to spotkać się z przedstawicielem serwisu i przekazać wymagane dokumenty
+JsonTransReader.script, scriptName, Warsztat ASO 
+JsonTransReader.nestedscript, scriptOrder, 1
+JsonTransReader.nestedscript, scriptHeader, Oryginalne części
+JsonTransReader.nestedscript, scriptBody, W naprawie zostaną użyte tylko oryginalne części, co jest gwarancją jakości naprawy.
+JsonTransReader.nestedscript, scriptOrder, 2
+JsonTransReader.nestedscript, scriptHeader, Naprawa pojazdu zgodnie z najwyższymi standardami
+JsonTransReader.nestedscript, scriptBody, Wykorzystanie w naprawie technologii spełniającej / zgodnej z wymogami producenta samochodu.
+JsonTransReader.script_workshop_premium_pl, stepHeader, Krok 2
+JsonTransReader.script_workshop_premium_pl, stepBody, Jeżeli Klient nie jest zainteresowany naprawą w rekomendowanej sieci, zaproponuj naprawę w warsztacie z sieci SWP. Warsztaty z tej sieci NIE SA warsztatami ASO (pozostałe atrybuty są takie same jak w sieci Premium Plus)
+JsonTransReader.script_workshop_premium_pl, workshopNetwork, TOP8
+JsonTransReader.script_workshop_premium_pl, workshopNetworkShown, SWP

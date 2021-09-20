@@ -1,0 +1,155 @@
+[
+    {
+        "stepHeader": "Krok 1",
+        "stepBody": "W przypadku dostępności Sieci TOP8, zaproponuj warsztat z tej sieci. Poniżej znajdziesz atrybuty warsztatów z tej sieci",
+        "workshopNetwork": "TOP8",
+        "workshopNetworkShown": "TOP8",
+        "scripts": [
+            {
+                "scriptName": "Czas i formalności",
+                "scripts": [
+                    {
+                        "scriptOrder": 2,
+                        "scriptHeader": "Szybka likwidacja szkody",
+                        "scriptBody": "Razem z naszymi serwisami opracowaliśmy rozwiązania, które zapewnią szybką i bezproblemową naprawę pojazdu i likwidację szkody"
+                    },
+                    {
+                        "scriptOrder": 4,
+                        "scriptHeader": "Minimum formalności",
+                        "scriptBody": "Serwis dokona za Pana/Panią większość formalności, jedyne co powinien Pan/Pani zrobić to spotkać się z przedstawicielem warsztatu i przekazać wymagane dokumenty."
+                    }
+                ]
+            },
+            {
+                "scriptName": "Warsztat ASO ",
+                "scripts": [
+                    {
+                        "scriptOrder": 1,
+                        "scriptHeader": "Oryginalne części",
+                        "scriptBody": "W naprawie zostaną użyte tylko oryginalne części, co jest gwarancją jakości naprawy."
+                    },
+                    {
+                        "scriptOrder": 2,
+                        "scriptHeader": "Naprawa pojazdu zgodnie z najwyższymi standardami",
+                        "scriptBody": "Wykorzystanie w naprawie technologii spełniającej / zgodnej z wymogami producenta samochodu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stepHeader": "Krok 1",
+        "stepBody": "W przypadku dostępności Sieci Premium Plus, zaproponuj naprawę w autoryzowanym serwisie z najlepszą oceną. - Jeżeli Klient odmówi zaproponuj kolejny serwis z tej sieci",
+        "workshopNetwork": "TOP8",
+        "workshopNetworkShown": "Premium+",
+        "scripts": [
+            {
+                "scriptName": "Usługi premium",
+                "scripts": [
+                    {
+                        "scriptOrder": 1,
+                        "scriptHeader": "Samochód zastępczy",
+                        "scriptBody": "Zorganizujemy bezpłatny samochód zastępczy, który odbierze Pan/Pani w serwisie."
+                    },
+                    {
+                        "scriptOrder": 2,
+                        "scriptHeader": "Door-to-door",
+                        "scriptBody": "Wybierając Serwis z naszej sieci będzie to o tyle proste, że pracownik odbierze niejezdny pojazd z miejsca i w terminie ustalonym z Panem/Panią, więc nie będzie Pan/Pani musiał/a poświęcać czasu na dostarczenie czy też na odbiór pojazdu z Serwisu."
+                    },
+                    {
+                        "scriptOrder": 3,
+                        "scriptHeader": "Holowanie samochodu",
+                        "scriptBody": "Zajmiemy się transportem nie jezdnego samochodu do wybranego przez Pana/Panią serwisu."
+                    },
+                    {
+                        "scriptOrder": 4,
+                        "scriptHeader": "Gwarancja na naprawę",
+                        "scriptBody": "Serwisy gwarantują dwuletnią gwarancję na wykonaną usługę."
+                    },
+                    {
+                        "scriptOrder": 5,
+                        "scriptHeader": "Mycie samochodu",
+                        "scriptBody": "W ramach sieci gwarantujemy również mycie pojazdu."
+                    }
+                ]
+            },
+            {
+                "scriptName": "Finanse",
+                "scripts": [
+                    {
+                        "scriptOrder": 1,
+                        "scriptHeader": "Koszt dodatkowych usług",
+                        "scriptBody": "Korzystając z dodatkowych usług oferowanych przez nasze serwisy, jak holowanie i samochód zastępczy ma Pan/Pani pewność, że nie będzie musiał/a Pan/Pani angażować własnych środków pieniężnych."
+                    }
+                ]
+            },
+            {
+                "scriptName": "Jakość usługi",
+                "scripts": [
+                    {
+                        "scriptOrder": 1,
+                        "scriptHeader": "Potwierdzona",
+                        "scriptBody": "Certyfikujemy wszystkie proponowane serwisy, dlatego też może być Pan/Pani pewien/pewna jakości świadczonych przez nich usług."
+                    },
+                    {
+                        "scriptOrder": 2,
+                        "scriptHeader": "Zagwarantowana",
+                        "scriptBody": "Serwisy gwarantują dwuletnią gwarancję na wykonaną usługę."
+                    },
+                    {
+                        "scriptOrder": 3,
+                        "scriptHeader": "Rekomendowana",
+                        "scriptBody": "* Ten serwis jest najczęściej wybierany przez naszych klientów tym regionie."
+                    },
+                    {
+                        "scriptOrder": 4,
+                        "scriptHeader": "Rekomendowana",
+                        "scriptBody": "* Ten serwis jest rekomendowany przez ponad 90% klientów, których pytaliśmy o opinię na temat jakości obsługi."
+                    }
+                ]
+            },
+            {
+                "scriptName": "Czas i formalności",
+                "scripts": [
+                    {
+                        "scriptOrder": 1,
+                        "scriptHeader": "Wybierz odpowiedni warsztat",
+                        "scriptBody": "Proszę o chwilę poszukam dla Pana/Pani odpowiedniego warsztatu (zlokalizowanego niedaleko Pana/Pani miejsca zamieszkania; najlepiej dopasowanego do naprawy Pana/Pani samochodu)"
+                    },
+                    {
+                        "scriptOrder": 2,
+                        "scriptHeader": "Szybka likwidacja szkody",
+                        "scriptBody": "Razem z naszymi serwisami opracowaliśmy rozwiązania, które zapewnią szybką i bezproblemową naprawę pojazdu i likwidację szkody"
+                    },
+                    {
+                        "scriptOrder": 3,
+                        "scriptHeader": "Minimum formalności",
+                        "scriptBody": "Nie musi się Pan/Pani martwić o kwestie takie, jak samochód zastępczy, holowanie czy oględziny ponieważ, pracownicy zajmą się ich organizacją w Pana/Pani imieniu. Serwis dokona za Pana/Panią większość formalności, jedyne co powinien Pan/Pani zrobić to spotkać się z przedstawicielem serwisu i przekazać wymagane dokumenty"
+                    }
+                ]
+            },
+            {
+                "scriptName": "Warsztat ASO ",
+                "scripts": [
+                    {
+                        "scriptOrder": 1,
+                        "scriptHeader": "Oryginalne części",
+                        "scriptBody": "W naprawie zostaną użyte tylko oryginalne części, co jest gwarancją jakości naprawy."
+                    },
+                    {
+                        "scriptOrder": 2,
+                        "scriptHeader": "Naprawa pojazdu zgodnie z najwyższymi standardami",
+                        "scriptBody": "Wykorzystanie w naprawie technologii spełniającej / zgodnej z wymogami producenta samochodu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stepHeader": "Krok 2",
+        "stepBody": "Jeżeli Klient nie jest zainteresowany naprawą w rekomendowanej sieci, zaproponuj naprawę w warsztacie z sieci SWP. Warsztaty z tej sieci NIE SA warsztatami ASO (pozostałe atrybuty są takie same jak w sieci Premium Plus)",
+        "workshopNetwork": "TOP8",
+        "workshopNetworkShown": "SWP",
+        "scripts": []
+    }
+]
